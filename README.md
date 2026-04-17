@@ -1,1 +1,1 @@
-https://www.portifolio-davi-huffenbaecher.vercel.app
+https://portifolio-davi-huffenbaecher.vercel.app
